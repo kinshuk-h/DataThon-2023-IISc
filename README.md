@@ -28,7 +28,7 @@ In recent times, Generative AI systems, especially those backed by Large Languag
 
 ## Submission Guidelines
 
-Pariticipants are required to submit the following information over a Google Form (link will be shared soon):
+Pariticipants are required to submit the following information over a Google Form ([link (active)](https://forms.gle/kirDf4rBtBhxkXDV9)):
 
 1. Details of the team.
 2. A brief description of the solution proposed for solving the problem (as a 1-2 page PDF).
